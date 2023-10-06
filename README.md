@@ -12,4 +12,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-* A
+* A 
+* I
